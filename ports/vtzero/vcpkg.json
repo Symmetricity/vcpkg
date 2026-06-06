@@ -1,0 +1,11 @@
+{
+  "name": "vtzero",
+  "version-semver": "1.2.0",
+  "description": "Header-only C++ library for reading and writing Mapbox Vector Tiles",
+  "homepage": "https://github.com/mapbox/vtzero",
+  "license": "BSD-2-Clause",
+  "supports": "!uwp",
+  "dependencies": [
+    "protozero"
+  ]
+}
