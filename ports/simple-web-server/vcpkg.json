@@ -1,0 +1,14 @@
+{
+  "name": "simple-web-server",
+  "version-semver": "3.1.1",
+  "description": "Simple C++ HTTP and HTTPS server and client library",
+  "homepage": "https://gitlab.com/eidheim/Simple-Web-Server",
+  "license": "MIT",
+  "dependencies": [
+    "boost-asio",
+    "boost-regex",
+    "boost-thread",
+    "boost-utility",
+    "openssl"
+  ]
+}
